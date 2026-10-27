@@ -1,6 +1,6 @@
 ### Hi, I'm Shrish 👋
 
-MS by Research (Data Science & AI) at **IIT Madras**, graduating Dec 2026.
+MS by Research (Data Science & AI) at **IIT Madras**.
 I work on **efficient, reliable LLM/VLM agents** — self-correcting agents, retrieval and
 ontology grounding, representation learning, and models small enough to run on a laptop.
 
